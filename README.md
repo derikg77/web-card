@@ -1,9 +1,9 @@
 # web-card
 
-<h1 align="center">Portfólio Exercício</h1>
+<h1 align="center">Card Design</h1>
 
 <div align="center" id="top">
-  <img src="./img/portfolio-design.png" alt="Portfolio"/>
+  <img src="./img/Card-design.png" alt="Card"/>
 
 </div>
 
